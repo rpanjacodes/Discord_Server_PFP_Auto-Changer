@@ -8,3 +8,6 @@ Run This Code :-
 4) go on "icons" folder and upload all your ".png" files you want to Rotate In Your Server Pfp. ( if you not know how to upload .png files then search on youtube according to what IDE you use. )
 5) When Done, Run The Code..
 
+
+⚠️ if you are a **[replit](https://replit.com)** user then delete the ".env" file and use replit's Secret environment feature to secure your Private Environments.
+
